@@ -1,7 +1,13 @@
 html{
     font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    border: 20px solid violet;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 20rem;
+    font-weight: bold;
+}
+
+h2 {
+    background-color: pink;
 }
